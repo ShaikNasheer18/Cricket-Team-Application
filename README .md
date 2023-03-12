@@ -158,10 +158,3 @@ Updates the details of a player in the team based on the `playerId`.  Also, retu
 #### Description:
 
 Deletes a player from the team  based on the `playerId`. 
-
-
-**Do not modify the code in `PlayerApplication.java`**
-
-**Do not  modify anything in the `application.properties` file**
-
-**Do not add any Sql files**
